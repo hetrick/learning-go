@@ -1,5 +1,1 @@
-# Learning Go
-
-#### Resources:
-- [A Tour Of Go](https://go.dev/tour/list)
-- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+Solutions to exercises from [Learning Go](https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/).
