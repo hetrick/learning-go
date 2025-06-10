@@ -4,5 +4,9 @@ import "fmt"
 
 func main() {
 	const value = 30
-	fmt.Printf("value: %d\n", value)
+
+	var i int = value
+	var f float64 = value
+
+	fmt.Printf("value %d as\nint: %d\nfloat: %f", value, i, f)
 }
