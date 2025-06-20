@@ -13,7 +13,7 @@ func main() {
 
 	first_second := greetings[:2]
 	second_third_fourth := greetings[1:4]
-	fourth_fifth := greetings[3:5]
+	fourth_fifth := greetings[3:5] // or [3:]
 
 	fmt.Println("          greetings:", greetings)
 	fmt.Println("       first_second:", first_second)
