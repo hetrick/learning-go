@@ -22,8 +22,8 @@ func main() {
 	}
 
 	var structThree = Employee{
-		structTwo.firstName,
-		structOne.lastName,
+		structOne.firstName,
+		structTwo.lastName,
 		3,
 	}
 
