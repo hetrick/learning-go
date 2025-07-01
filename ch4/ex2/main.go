@@ -14,7 +14,16 @@ func main() {
 		rNums = append(rNums, randNum)
 	}
 
-	for i, rN := range rNums {
-		fmt.Printf("index %d random number: %d\n", i, rN)
+	for _, rN := range rNums {
+		if rN%2 == 0 {
+			fmt.Printf("%d is divisible by two!\n", rN)
+		} else if rN%3 == 0 {
+			fmt.Printf("%d is divisible by three!\n", rN)
+		} else if rN%2 == 0 && rN%3 == 0 {
+			fmt.Printf("%d is divisible by six!\n", rN)
+			break
+		} else {
+			fmt.Print("never mind\n")
+		}
 	}
 }
