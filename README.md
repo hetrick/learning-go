@@ -1,5 +1,5 @@
 Solutions to exercises from the book _[Learning Go](https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/)_.
-
+---
 <ins>Chapter 1</ins>
 - [Hello World](./ch1/hello.go)
 
