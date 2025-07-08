@@ -4,9 +4,9 @@ Solutions to exercises from the book _[Learning Go](https://www.oreilly.com/libr
 - [Hello World](./ch1/hello.go)
 
 <ins>Chapter 2</ins>
-- **Exercise 1**: ([solution](./ch2/ex1/main.go))
-- **Exercise 2**: ([solution](./ch2/ex2/main.go))
-- **Exercise 3**: ([solution](./ch2/ex3/main.go))
+- **Exercise 1**: Write a program where you declare an integer variable called `i` with the value `20`. Assign `i` to a floating point variable named `f`. Print out `i` and `f`. ([solution](./ch2/ex1/main.go))
+- **Exercise 2**: Write a program where you declare a constant called `value` that can be assigned to both an integer and a floating point variable. Assign it to an integer called `i` and a floating point variable called `f`. Print out `i` and `f`. ([solution](./ch2/ex2/main.go))
+- **Exercise 3**: Write a program with three variables, one named `b` of type `byte`, one named `smallI` of type `int32`, and one named `bigI` of type `uint64`. Assign each variable the maximum legal value for its type, then add `1` to each variable. Print out their values. ([solution](./ch2/ex3/main.go))
 
 <ins>Chapter 3</ins>
 - **Exercise 1**: ([solution](./ch3/ex1/main.go))
