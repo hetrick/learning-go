@@ -19,6 +19,6 @@ Solutions to exercises from the book _[Learning Go](https://www.oreilly.com/libr
 - [Exercise 3](./ch4/ex3/main.go)
 
 <ins>Chapter 5</ins>
-- [Exercise 1](./ch5/ex1/main.go)
+- **Exercise 1**: The simple calculator program doesn't handle one error case: division by zero. Change the function signature for the math operations to return both an int and an error. In the div function, if the divisor is 0, return 0, errors.New("division by zero"). In all other cases, return the calculated value and nil. Adjust the main function to check for this error. ([solution](./ch5/ex1/main.go))
 
 Sample code, exercise questions, and the author's solutions can be found [here](https://github.com/learning-go-book-2e).
