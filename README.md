@@ -1,5 +1,5 @@
 Solutions to exercises from the book _[Learning Go](https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/)_.
----
+
 <ins>Chapter 1</ins>
 - [Hello World](./ch1/hello.go)
 
@@ -17,3 +17,8 @@ Solutions to exercises from the book _[Learning Go](https://www.oreilly.com/libr
 - [Exercise 1](./ch4/ex1/main.go)
 - [Exercise 2](./ch4/ex2/main.go)
 - [Exercise 3](./ch4/ex3/main.go)
+
+<ins>Chapter 5</ins>
+- [Exercise 1](./ch5/ex1/main.go)
+
+Sample code, exercise questions, and the author's solutions can be found [here](https://github.com/learning-go-book-2e).
